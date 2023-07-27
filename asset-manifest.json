@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/user-grid-app/static/css/main.6ab17e88.css",
+    "main.js": "/user-grid-app/static/js/main.b3b09b95.js",
+    "static/js/787.5bb8d449.chunk.js": "/user-grid-app/static/js/787.5bb8d449.chunk.js",
+    "index.html": "/user-grid-app/index.html",
+    "main.6ab17e88.css.map": "/user-grid-app/static/css/main.6ab17e88.css.map",
+    "main.b3b09b95.js.map": "/user-grid-app/static/js/main.b3b09b95.js.map",
+    "787.5bb8d449.chunk.js.map": "/user-grid-app/static/js/787.5bb8d449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab17e88.css",
+    "static/js/main.b3b09b95.js"
+  ]
+}
